@@ -1,4 +1,4 @@
-# Aurelis ZDBC Driver
+# Aurelius ZDBC Driver
 
 An TMS Aurelius db driver build with ZeosLib ZDBC (no TDataSet)
 

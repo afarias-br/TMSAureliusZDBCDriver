@@ -1,12 +1,9 @@
 # Aurelis ZDBC Driver
 
-An Aurelis db driver based on Zeos Lib ZDBC (no TDataSet )
+An TMS Aurelius db driver build with ZeosLib ZDBC (no TDataSet)
 
 
-** ToDo
+### ToDo
 
-- Review transaction handling (avoid long running transactions and 'soft commits' for instance)
+- Review transaction handling (avoid 'soft' commits)
 - Add support for batch operations
-
-
-

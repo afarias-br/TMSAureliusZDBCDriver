@@ -1,6 +1,6 @@
 # Aurelius ZDBC Driver
 
-An TMS Aurelius db driver build with ZeosLib ZDBC (no TDataSet)
+A TMS Aurelius driver build with ZeosLib ZDBC (no TDataSet)
 
 
 ### ToDo
